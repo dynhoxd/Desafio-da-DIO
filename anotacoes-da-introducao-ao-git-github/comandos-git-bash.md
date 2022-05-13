@@ -15,6 +15,9 @@
 - git remote -v - mostra o servidor ao qual o repositório está ligado.
 - git rm arq/pasta > remove/deleta.
 
+- ls > lista arquivos do dir.
+- ls -a > lista arquivos do dir, mesmo os ocultos.
+- crtl+l > limpa tela do Git Bash
 
 ### Extra:
 
