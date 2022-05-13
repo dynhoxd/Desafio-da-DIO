@@ -14,3 +14,8 @@
 - git config --list > mostra dados do repositório, como user.name/email.
 - git remote -v - mostra o servidor ao qual o repositório está ligado.
 - git rm arq/pasta > remove/deleta.
+
+
+### Extra:
+
+[Link para o guia do markdown](https://www.markdownguide.org/basic-syntax/)
