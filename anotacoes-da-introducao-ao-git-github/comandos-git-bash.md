@@ -13,4 +13,4 @@
 - git status > mostra se há alguma arq/pasta que demande alguma ação para continuar o versionamento.
 - git config --list > mostra dados do repositório, como user.name/email.
 - git remote -v - mostra o servidor ao qual o repositório está ligado.
-- git rm - remove/deleta.
+- git rm arq/pasta > remove/deleta.
