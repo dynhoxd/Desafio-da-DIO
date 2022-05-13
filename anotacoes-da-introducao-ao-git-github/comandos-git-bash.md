@@ -1,6 +1,6 @@
 ## Comandos básicos aprendidos no curso de introdução ao git/github
 
-- git ini > cria um repositório para trabalhar com o git.
+- git init > cria um repositório para trabalhar com o git.
 - git config --global user.name "" > declara o nome do user passado entre aspas.
 - git config --global user.email "" > declara o email do user passado entre aspas.
 - git add arq/pasta/* > coloca arq/pasta/tudo do dir pronto para ser comitado (staged).
